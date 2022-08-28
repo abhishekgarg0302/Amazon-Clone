@@ -1,5 +1,5 @@
 ## AMAZON-CLONE
-- This is the clone of Facebook login page. Hope you would like and give it a thumbs up.
+- This is the clone of Amazon Landing Page. It is made just using HTML and CSS Hope you would like it.
 - Also check out my other project on my github : https://github.com/abhishekgarg0302
 
 ## Link for the functional page
